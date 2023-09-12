@@ -128,7 +128,7 @@ To run end-to-end tests:
 2. Run the following command to install Maestro: `curl -Ls "https://get.maestro.mobile.dev" | bash` (Applicable for Mac
    OS, Linux, or Windows with WSL)
 3. Navigate to the `apps/onyx/integration_test` directory.
-    4. After installing the app on an Android device (physical or virtual), run the following command to execute the
+4. After installing the app on an Android device (physical or virtual), run the following command to execute the
        tests: `maestro test general_test.yaml` Maestro will automatically run the tests.
 
 Now, you're all set to build and test your Flutter app. 🎉
