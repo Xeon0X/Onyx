@@ -14,8 +14,6 @@
     <a href="https://github.com/onyx-lyon1/onyx/releases">
       <img src="https://img.shields.io/github/release/onyx-lyon1/onyx?include_prereleases=&sort=semver&color=blue" alt="Releases">
     </a>
-    <a href="https://play.google.com/store/apps/details?id=fr.onyx.lyon1&pcampaignid=web_share">
-      <img src="https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dfr.onyx.lyon1%26l%3DAndroid%26m%3D%24version" alt="Playstore">
     </a>
     <a href="https://creativecommons.org/licenses/by-nc/4.0/">
       <img src="https://img.shields.io/badge/License-CC BY--NC-blue" alt="License">
@@ -51,11 +49,10 @@ your phone.
 ## Download
 
 <p align=center>
-<a href='https://play.google.com/store/apps/details?id=fr.onyx.lyon1&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt="google-play" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/google-play_vector.svg"></a>
-<!--<a href='https://play.google.com/store/apps/details?id=fr.onyx.lyon1&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on F-Droid' src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png' height="80px"/></a>-->
-<a href='https://github.com/onyx-lyon1/onyx/releases'><img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"></a>
+<a className="inline-block" href='https://f-droid.org/packages/fr.onyx.lyon1'><img className="h-56" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80"></a>
+<a className="inline-block h-56" href='https://github.com/onyx-lyon1/onyx/releases'><img className="p-2.5 h-56" alt="Available on Github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"></a>
 <a href='https://apps.apple.com/app/onyx-everything-for-lyon-1/id6462440486
-'><img alt="app-store" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/app-store_vector.svg"></a>
+'><img alt="Available on App Store" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/app-store_vector.svg"></a>
 </p>
 
 ## Contribute
